@@ -12,3 +12,4 @@ class CreateTask < ActiveRecord::Migration
     end 
   end 
 end 
+  
